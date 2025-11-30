@@ -27,6 +27,9 @@ these technologies have the potential to facilitate real-time communication, emp
 individuals with hearing impairments, and bridge the communication gap between deaf
 and hearing communities.
 
+##Limitations
+There is great accuracy in the model on both the training data and the validation data, but its accuracy drastically decreases when it is applied to the real test data. This implies that the model has acquired the training examples in too narrow a way and cannot cope with unfamiliar, unobserved data.
+
 ## Results
 
 ![image](https://github.com/user-attachments/assets/202e31fa-e44a-4416-8954-c0c19eea8507)
